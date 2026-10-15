@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Yasmin Marques 👋
 
-<!--
-**yasmin-marques/yasmin-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do **5º semestre de Ciência da Computação na Universidade Federal do Ceará (UFC)** e desenvolvedora **Full Stack**.
 
-Here are some ideas to get you started:
+Tenho interesse principalmente em **desenvolvimento web, back-end, bancos de dados e engenharia de dados**, sempre buscando evoluir em arquitetura, qualidade de código e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+**Back-end:** Java, Spring Boot, Python, Node.js, NestJS  
+**Front-end:** React, TypeScript, JavaScript, HTML e CSS  
+**Dados:** PostgreSQL, MongoDB e SQL  
+**Ferramentas:** Docker, Git, GitHub e AWS
+
+## 📫 Contato
+
+**GitHub:** @yasmin-marques  
+**LinkedIn:** [(https://www.linkedin.com/in/yasmin-marques-lima/?isSelfProfile=true)]
