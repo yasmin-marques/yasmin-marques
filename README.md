@@ -6,10 +6,23 @@ Tenho interesse principalmente em **desenvolvimento web, back-end, bancos de dad
 
 ## 🛠️ Tecnologias
 
-**Back-end:** Java, Spring Boot, Python, Node.js, NestJS  
-**Front-end:** React, TypeScript, JavaScript, HTML e CSS  
-**Dados:** PostgreSQL, MongoDB e SQL  
-**Ferramentas:** Docker, Git, GitHub e AWS
+**Back-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,nestjs" />
+</p>
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+</p>
+
+**Dados & Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,aws" />
+</p>
 
 ## 📫 Contato
 
