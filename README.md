@@ -26,5 +26,12 @@ Tenho interesse principalmente em **desenvolvimento web, back-end, bancos de dad
 
 ## 📫 Contato
 
-**GitHub:** @yasmin-marques  
-**LinkedIn:** [(https://www.linkedin.com/in/yasmin-marques-lima/?isSelfProfile=true)]
+<p>
+  <a href="https://github.com/yasmin-marques" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="(https://www.linkedin.com/in/yasmin-marques-lima/?isSelfProfile=true)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
